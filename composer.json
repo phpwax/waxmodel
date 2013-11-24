@@ -1,0 +1,17 @@
+{
+    "name": "phpwax/waxmodel",
+    "description": "Subtree split of the Model component of the PHP Wax Framework",
+    "authors": [
+        {"name": "Ross Riley",       "email": "riley.ross@gmail.com"},
+        {"name": "Charles Marshall", "email": "charles@oneblackbear.com"}
+    ],
+    "license": "MIT",
+    "require": {
+      "php": ">=5.3"
+    },
+    "autoload": {
+      "classmap": [
+        "Wax/Model/"
+      ]
+    }
+}
